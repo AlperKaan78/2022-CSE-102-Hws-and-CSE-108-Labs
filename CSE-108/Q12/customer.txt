@@ -1,0 +1,3 @@
+Ali - AGE: 17 - LEVEL: 4 - GROUP: VIP
+Alper - AGE: 18 - LEVEL: 3 - GROUP: OD
+Mehmet - AGE: 29 - LEVEL: 1 - GROUP: NORMAL

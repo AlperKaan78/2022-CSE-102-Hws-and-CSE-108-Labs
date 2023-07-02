@@ -1,0 +1,8 @@
+name color price serial_number quantity
+sofa black $1500 343987 1000 
+table red $190.50 434399 1400 
+phone blue $590 141413 900 
+bed white $900 898988 1000 
+desk brown 335.00 2 453 
+lamp grey 66 30 0 
+ 120 bed green 0 0 
