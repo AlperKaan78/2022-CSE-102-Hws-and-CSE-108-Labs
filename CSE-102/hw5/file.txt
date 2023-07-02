@@ -1,0 +1,6 @@
+ASCII was originally developed for teleprinters, or teletypewriters,
+but it eventually found wide application in personal computers (PCs),
+beginning with IBM's first PC, in 1981. ASCII uses seven-digit binary numbers—i.e.,
+numbers consisting of various sequences of 0's and 1's. 
+
+Alper Kaan GULER - Gebze Technical University.

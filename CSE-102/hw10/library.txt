@@ -1,0 +1,43 @@
+9780385474542,The Shining,Stephen King,1977,0
+9781451635621,The Outsiders,S.E. Hinton,1967,0
+9780553296983,Moby-Dick,Herman Melville,1851,0
+9780143127555,The Great Gatsby,F. Scott Fitzgerald,1925,0
+9780142424179,The Adventures of Tom Sawyer,Mark Twain,1876,0
+9780316769174,The Catcher in the Rye,J.D. Salinger,1951,0
+9780060929790,The Color Purple,Alice Walker,1982,0
+9780385343861,A Thousand Splendid Suns,Khaled Hosseini,2007,0
+9780062459341,The Sun Also Rises,Ernest Hemingway,1926,0
+9780735224315,The Goldfinch,Donna Tartt,2013,1
+9780525536291,The Silent Patient,Alex Michaelides,2019,1
+9780142407332,The Lightning Thief,Rick Riordan,2005,1
+9780345538376,The Help,Kathryn Stockett,2009,1
+9780143127555,Gone with the Wind,Margaret Mitchell,1936,0
+9780143127550,Gone Girl,Gillian Flynn,2012,1
+9780547928227,The Hunger Games,Suzanne Collins,2008,0
+9780807281918,Eragon,Christopher Paolini,2002,0
+9780375834936,Diary of a Wimpy Kid,Jeff Kinney,2007,0
+9780142418475,The Maze Runner,James Dashner,2009,0
+9780385739893,The Book Thief,Markus Zusak,2005,0
+9780553588484,The Da Vinci Code,Dan Brown,2003,0
+9780064404990,A Wrinkle in Time,Madeleine L'Engle,1962,0
+9780345391803,xxxxxxxx,George R.R. Martin,1996,0
+9780553212477,The Count of Monte Cristo,Alexandre Dumas,1844,0
+9780140186406,Pride and Prejudice,Jane Austen,1813,1
+9780812550702,Ender's Game,Orson Scott Card,1985,1
+9780140301694,To Kill a Mockingbird,Harper Lee,1960,0
+9780061122415,The Giver,Lois Lowry,1993,0
+9780141187761,The Picture of Dorian Gray,Oscar Wilde,1890,0
+9780439023528,Catching Fire,Suzanne Collins,2009,0
+9780143127559,The Fault in Our Stars,John Green,2012,0
+9780553103540,Fahrenheit 451,Ray Bradbury,1953,1
+9780812984965,The Help,Kathryn Stockett,2009,1
+9781400032716,The Hobbit,J.R.R. Tolkien,1937,1
+9780060256654,Where the Wild Things Are,Maurice Sendak,1963,1
+9780062316097,1984,George Orwell,1949,1
+9780399501487,Brave New World,Aldous Huxley,1932,1
+9780679720201,Animal Farm,George Orwell,1945,1
+9781400079988,The Catcher in the Rye,J.D. Salinger,1951,1
+9780141439518,Jane Eyre,Charlotte Bronte,1847,1
+9786054168926,1984,George Orwell,1949,1
+9789752895798,Donusum,Franz Kafka,1948,0
+9786052987612,Suc ve Ceza,Dostoyevsky,1987,0

@@ -1,0 +1,10 @@
+Kebap       95.99
+Lahmacun    31.50
+Pide        70.00
+Doner       45.60
+Kola        15.00
+Su          5.00
+Kunefe      60.00
+Sutlac      42.50
+Pizza       120.00
+Kanat       69.99

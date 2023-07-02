@@ -1,0 +1,9 @@
+sID,pID,branch,current_stock
+1,4,balıkesir,150
+2,1,yozgat,300
+3,2,izmir,500
+4,5,trabzon,145
+5,3,bursa,1500
+6,2,tunceli,300
+7,4,kocaeli,1400
+8,3,nigde,5000

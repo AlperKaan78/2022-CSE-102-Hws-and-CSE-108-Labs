@@ -1,0 +1,6 @@
+pID,type,name,brand,price
+1,f,cikolata,alg,6.50
+2,f,dondurma,algid,15.00
+3,f,cikolata,hobby,2.50
+4,f,cips,lays,19.99
+5,f,biskuvi,ikram,13.34
